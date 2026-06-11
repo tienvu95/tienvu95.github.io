@@ -34,6 +34,6 @@ Write your biography here. Tell the world about yourself.
 
 ## Awards
 
-- **International Undergraduate Scholarship** — Australian National University
+- **International Undergraduate Scholarship** — Australian National University (2015–2019)
 - **Financial Leaders of Tomorrow Scholarship** — Tsinghua University (2018)
 - **A\*Star Scholarship** — Singapore Ministry of Education *(Full tuition and stipend, 2011–2014)*
