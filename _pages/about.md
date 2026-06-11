@@ -7,7 +7,7 @@ subtitle: PhD Student, <a href='https://www.heinz.cmu.edu/'>Heinz College</a>, C
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Heinz College</p>
     <p>Carnegie Mellon University</p>
@@ -42,4 +42,4 @@ Prior to joining Carnegie Mellon, I completed dual Bachelor's degrees in Finance
 
 - **International Undergraduate Scholarship** — Australian National University (2015–2019)
 - **Financial Leaders of Tomorrow Scholarship** — Tsinghua University (2018)
-- **A\*Star Scholarship** — Singapore Ministry of Education _(Full tuition and stipend, 2011–2014)_
+- **A\*Star Scholarship** — Singapore Ministry of Education (2011–2014)
