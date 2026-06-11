@@ -34,7 +34,6 @@ Write your biography here. Tell the world about yourself.
 
 ## Awards
 
-- **Graduate Assistantship** — University of Tennessee *(Full tuition, fees, and stipend)*
 - **International Undergraduate Scholarship** — Australian National University
 - **Financial Leaders of Tomorrow Scholarship** — Tsinghua University (2018)
 - **A\*Star Scholarship** — Singapore Ministry of Education *(Full tuition and stipend, 2011–2014)*
