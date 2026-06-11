@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-01 00:00:00-0500
+date: 2026-04-01 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-[WITS Best Dissertation Award](https://witsconf.org/), *AI-Driven Trust and Credentialing across Digital Social Domains*
+Successfully passed my first paper presentation at Heinz College, Carnegie Mellon University.
