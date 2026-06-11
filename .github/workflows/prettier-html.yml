@@ -1,7 +1,7 @@
 name: Prettify gh-pages
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # disabled for personal site
 
 jobs:
   format:
