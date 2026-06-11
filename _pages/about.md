@@ -37,5 +37,4 @@ Write your biography here. Tell the world about yourself.
 - **Graduate Assistantship** — University of Tennessee *(Full tuition, fees, and stipend)*
 - **International Undergraduate Scholarship** — Australian National University
 - **Financial Leaders of Tomorrow Scholarship** — Tsinghua University (2018)
-- **Top Performing Students Award** — ANU College of Business & Economics (2015–2016)
 - **A\*Star Scholarship** — Singapore Ministry of Education *(Full tuition and stipend, 2011–2014)*
