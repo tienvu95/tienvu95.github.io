@@ -33,13 +33,13 @@ Prior to joining Carnegie Mellon, I completed dual Bachelor's degrees in Finance
 
 ## News
 
-| Date | |
-|---|---|
+| Date     |                                                                                               |
+| -------- | --------------------------------------------------------------------------------------------- |
 | Apr 2026 | Successfully passed my first paper presentation at Heinz College, Carnegie Mellon University. |
-| Aug 2024 | Started my PhD in Information Systems at Heinz College, Carnegie Mellon University. |
+| Aug 2024 | Started my PhD in Information Systems at Heinz College, Carnegie Mellon University.           |
 
 ## Awards
 
 - **International Undergraduate Scholarship** — Australian National University (2015–2019)
 - **Financial Leaders of Tomorrow Scholarship** — Tsinghua University (2018)
-- **A\*Star Scholarship** — Singapore Ministry of Education *(Full tuition and stipend, 2011–2014)*
+- **A\*Star Scholarship** — Singapore Ministry of Education _(Full tuition and stipend, 2011–2014)_
