@@ -17,9 +17,7 @@ selected_papers: false
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+  enabled: false
 
 latest_posts:
   enabled: false
@@ -27,10 +25,17 @@ latest_posts:
 
 Write your biography here. Tell the world about yourself.
 
+## News
+
+| Date | |
+|---|---|
+| Apr 2026 | Successfully passed my first paper presentation at Heinz College, Carnegie Mellon University. |
+| Aug 2024 | Started my PhD in Information Systems at Heinz College, Carnegie Mellon University. |
+
 ## Awards
 
-- Merit based graduate assistantship (Full tuition waiver and stipend for master's program 2019-2020)
-- Tsinghua University's Financial Leaders of Tomorrow Scholarship (2018)
-- ANU College of Business & Economics Top Performing Students Award (2015-2016)
-- Australian National University International Undergraduate Scholarship (Full tuition scholarship awarded to the most outstanding international student, Semester 2 - 2015 intake, years 2015-2019)
-- A\*Star scholarship awarded by Singapore Ministry of Education (Full tuition scholarship and stipend, years 2011-2014)
+- **Full-tuition graduate assistantship** — University of Tennessee *(Awarded to top student in 2019 intake)*
+- **International Undergraduate Scholarship** — Australian National University *(Awarded to top international student in 2015 intake)*
+- **Financial Leaders of Tomorrow Scholarship** — Tsinghua University (2018)
+- **Top Performing Students Award** — ANU College of Business & Economics (2015–2016)
+- **A\*Star Scholarship** — Singapore Ministry of Education *(Full tuition and stipend, 2011–2014)*
