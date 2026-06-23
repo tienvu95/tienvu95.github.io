@@ -14,6 +14,37 @@ latest_posts:
   enabled: false
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Vu Hoang",
+  "url": "https://tienvu95.github.io",
+  "email": "vuhoang@cmu.edu",
+  "jobTitle": "PhD Student",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Carnegie Mellon University",
+    "department": "Heinz College of Information Systems and Public Policy",
+    "url": "https://www.heinz.cmu.edu/"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Australian National University"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Tennessee, Knoxville"
+    }
+  ],
+  "knowsAbout": ["Human-AI Interaction", "Artificial Social Intelligence", "Online Education", "Information Systems", "Machine Learning"],
+  "sameAs": [
+    "https://github.com/tienvu95"
+  ]
+}
+</script>
+
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
   <div style="flex: 1; min-width: 0;">
     <p>Hi there! I'm Vu Hoang, a third-year Ph.D. student in Information Systems at Heinz College, Carnegie Mellon University, with an expected graduation in Summer 2029.</p>
