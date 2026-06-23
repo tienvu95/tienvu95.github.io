@@ -40,7 +40,8 @@ latest_posts:
   ],
   "knowsAbout": ["Human-AI Interaction", "Artificial Social Intelligence", "Online Education", "Information Systems", "Machine Learning"],
   "sameAs": [
-    "https://github.com/tienvu95"
+    "https://github.com/tienvu95",
+    "https://scholar.google.com/citations?user=F8KfvfgAAAAJ"
   ]
 }
 </script>
