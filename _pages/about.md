@@ -71,7 +71,7 @@ latest_posts:
 
 ## Awards
 
-- **Three-Semester Assistantship** (Highest Merit-based Award) — University of Tennessee, Knoxville (2019–2020)
+- **Merit-based Three-Semester Assistantship** (Highest Award) — University of Tennessee, Knoxville (2019–2020)
 - **International Undergraduate Scholarship** — Australian National University (2015–2019)
 - **Financial Leaders of Tomorrow Scholarship** — Tsinghua University (2018)
 - **A\*Star Scholarship** — Singapore Ministry of Education (2011–2014)
